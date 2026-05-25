@@ -5,6 +5,7 @@ import Services from '@/components/Services';
 import Packages from '@/components/Packages';
 import AboutUs from '@/components/AboutUs';
 import FeaturedProjects from '@/components/FeaturedProjects';
+import Gallery from '@/components/Gallery';
 import Teams from '@/components/Teams';
 import Testimonials from '@/components/Testimonials';
 import Blogs from '@/components/Blogs';
@@ -22,6 +23,7 @@ export default function Home() {
         <Packages />
         <AboutUs />
         <FeaturedProjects />
+        <Gallery />
         <Teams />
         <Testimonials />
         <Blogs />
